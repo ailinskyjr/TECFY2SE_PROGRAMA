@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<B_dados>
+  <B_dado>
+    <id>1233</id>
+    <Cliente>tecfy</Cliente>
+    <url>https://tecfy.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>LepwEb9fuqL3PHsmCWF0wh9QLrx9f19ontczThhCc78=</Username>
+    <Password>vAKHtdwmnTsFKnaqaFTk+KDcb0ff1MAf8xvICaj81Eo=</Password>
+  </B_dado>
+  <B_dado>
+    <id>3931</id>
+    <Cliente>URI-TESTE</Cliente>
+    <url>https://uri-teste.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>iCwxMITGJ5p/IEt8cjNMZ1Fh1kAtY5wSxcMcteQN4+Y=</Username>
+    <Password>FtkpSpz2plRjqH1B59+02hcJm0MupMZoCmT83+2K8lk=</Password>
+  </B_dado>
+  <B_dado>
+    <id>1933</id>
+    <Cliente>FVA</Cliente>
+    <url>https://fva.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>T9hacU4yNBsSis6C+OxeYlhDXuNxCxzc9f+k1vrfbDc=</Username>
+    <Password>SAPW2WEbyX2keSoNHejr9ybPygbZkquWz36XL5odud0=</Password>
+  </B_dado>
+  <B_dado>
+    <id>7196</id>
+    <Cliente>UNIJALES</Cliente>
+    <url>https://unijales.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>ODSKUPToQSENo43DzNZLiabfJwpzoDPYPO1Fu5UpaHtSIt7LpfMFL64NnlMXVbv6</Username>
+    <Password>SAPW2WEbyX2keSoNHejr9ybPygbZkquWz36XL5odud0=</Password>
+  </B_dado>
+  <B_dado>
+    <id>8146</id>
+    <Cliente>CATOLICA</Cliente>
+    <url>https://catolicadefortaleza.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>FtkpSpz2plRjqH1B59+02vbaAnJV5scwIRf9+OFW/tc=</Username>
+    <Password>SAPW2WEbyX2keSoNHejr9ybPygbZkquWz36XL5odud0=</Password>
+  </B_dado>
+  <B_dado>
+    <id>8779</id>
+    <Cliente>FIEMT</Cliente>
+    <url>https://srvseapp.sfiemt.com.br/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>FtkpSpz2plRjqH1B59+02qMesglj/M1mKCWVOa/EvpxBh/hLS9MPmi4FctHBPiF7</Username>
+    <Password>LW167hSob7bmlQHyPz+sf+1akHlMIoFhpanEaidHCvY=</Password>
+  </B_dado>
+</B_dados>

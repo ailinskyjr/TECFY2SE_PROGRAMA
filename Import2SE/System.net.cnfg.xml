@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<B_dados>
+  <Config>
+    <ColunaA_MatriculaPasta>rh-matricula</ColunaA_MatriculaPasta>
+    <ColunaB_Nome>rh-nome</ColunaB_Nome>
+    <ColunaC_Empresa>rh-empresa</ColunaC_Empresa>
+    <ColunaD_Dtadmissao>rh-dtadmissao</ColunaD_Dtadmissao>
+    <ColunaE_Dtdesligamento>rh-dtdesligamento</ColunaE_Dtdesligamento>
+    <ColunaF>rh-cpf</ColunaF>
+    <ColunaG>rh-funcao</ColunaG>
+    <ColunaH>rh-ponto</ColunaH>
+    <ColunaI>rh-regional</ColunaI>
+    <ColunaJ>rh-unidade</ColunaJ>
+    <ColunaK />
+    <ColunaL />
+    <ColunaM />
+    <ColunaN />
+    <ColunaO />
+    <ColunaP />
+    <AttributeMatriculaDoc>rh-matricula</AttributeMatriculaDoc>
+    <AttributeSituacaodoc>rh-situacaodoc</AttributeSituacaodoc>
+    <Valor_AttributeSituacaodoc>Pendente</Valor_AttributeSituacaodoc>
+    <IDCategoriaPasta>rh2-000</IDCategoriaPasta>
+    <Categorychecklist>rh2-checklist</Categorychecklist>
+    <Chklist_empresa>rh-chklist-empresa</Chklist_empresa>
+    <Chklist_evento>rh-chklist-evento</Chklist_evento>
+    <StructPendenteID />
+    <DigitosStructID>2</DigitosStructID>
+    <IdUsuario />
+    <EditarCadastro>Sim</EditarCadastro>
+    <FormatoData>yyyy-MM-dd</FormatoData>
+    <IndiceID>ColunaF</IndiceID>
+    <AtribDocColunaA>rh-matricula</AtribDocColunaA>
+    <AtribDocColunaB />
+    <AtribDocColunaC />
+    <AtribDocColunaD />
+    <AtribDocColunaE />
+    <AtribDocColunaF>rh-cpf</AtribDocColunaF>
+    <AtribDocColunaG />
+    <AtribDocColunaH />
+    <AtribDocColunaI />
+    <AtribDocColunaJ />
+    <AtribDocColunaK />
+    <AtribDocColunaL />
+    <AtribDocColunaM />
+    <AtribDocColunaN />
+    <AtribDocColunaO />
+    <AtribDocColunaP />
+  </Config>
+</B_dados>

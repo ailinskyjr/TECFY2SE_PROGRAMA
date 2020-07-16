@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BD_dados>
+  <BD_dado>
+    <Cliente>157</Cliente>
+    <url>https://catolicadefortaleza.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>    
+    <Username>FtkpSpz2plRjqH1B59+02vbaAnJV5scwIRf9+OFW/tc=</Username>
+    <Password>SAPW2WEbyX2keSoNHejr9ybPygbZkquWz36XL5odud0=</Password>
+  </BD_dado>
+  <BD_dado>
+    <Cliente>145</Cliente>
+    <url>https://tecfy.softexpert.com/softexpert/webserviceproxy/se/ws/dc_ws.php</url>
+    <Username>123457</Username>
+    <Password>87654332</Password>
+  </BD_dado>
+</BD_dados>
